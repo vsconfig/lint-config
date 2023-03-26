@@ -1,0 +1,27 @@
+{
+  "name": "@vsconfig/eslint-config-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "typescript",
+    "eslint",
+    "eslintconfig",
+    "eslintrc",
+    "linter",
+    "lint"
+  ],
+  "repository": {
+    "url": "https://github.com/vsconfig/lint-config.git"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.50.0",
+    "@typescript-eslint/parser": "^5.50.0",
+    "@vsconfig/eslint-config": "^1.0.0",
+    "eslint": "^8.33.0",
+    "prettier": "^2.8.3"
+  }
+}

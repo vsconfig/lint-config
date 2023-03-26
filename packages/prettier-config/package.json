@@ -1,0 +1,20 @@
+{
+  "name": "@vsconfig/prettier-config",
+  "version": "1.0.0",
+  "private": false,
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "prettierrc",
+    "linter",
+    "lint"
+  ],
+  "repository": {
+    "url": "https://github.com/vsconfig/lint-config.git"
+  },
+  "dependencies": {
+    "prettier": "^2.8.3"
+  }
+}
